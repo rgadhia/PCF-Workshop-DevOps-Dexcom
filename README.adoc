@@ -1,0 +1,49 @@
+= Pivotal Cloud Foundry DevOps Workshop
+
+== Welcome!
+
+This one day hands-on session will operators with first-hand experience with Pivotal Cloud Foundry concepts, architecture, and opearation.  The session includes presentations, demos and hands on labs
+
+
+== Agenda
+
+* Lab 1:  Install PCF on AWS
+* Cloud Native Overview
+* Pivotal Cloud Foundry Architecture
+* High Availability in Pivotal Cloud Foundry
+* Demo: Push, Scale and Monitor App
+* BOSH Overview & Internals
+* Demo: Ops Manager Overview
+* Backup, Recovery, and DR
+* Security Overview
+* User Management
+* Logging & Monitoring
+* Demo: PCF Metrics
+* CI/CD
+* Demo: End-to-end CI/CD pipeline in PCF
+* Lab 2:  Configure PCF on AWS for AppDev Workshop
+
+== Course Materials
+
+* link:presentations/Cloud_Native_Enterprise.pdf[Cloud Native Enterprise]
+* link:presentations/Core_CF_Technical_Overview.pdf[Architecture & HA]
+* link:presentations/Bosh_Fundamentals.pdf[BOSH]
+* link:presentations/BackupRestore.pdf[Backup/Restore]
+* link:presentations/Security_User.pdf[Security & User Management]
+* link:presentations/Logging&Monitoring.pdf[Logging & Monitoring]
+
+== Give us feedback!
+
+Day 1: https://docs.google.com/a/pivotal.io/forms/d/1k52Sf_N9zkCHfSBOGRBt8mTfttG_UD7YGaQMnUTV49M/edit?usp=sharing  +
+Day 2: https://docs.google.com/a/pivotal.io/forms/d/1iQMdNvNFPvo7vaYNo9flq6gTLdF8qjGSptA7DnRQLMc/edit?usp=sharing
+
+== Documentation Reference for PCF Installation on AWS
+
+http://docs.pivotal.io/pivotalcf/customizing/requirements.html#aws +
+http://docs.pivotal.io/pivotalcf/customizing/cloudform.html +
+http://docs.pivotal.io/pivotalcf/customizing/cloudform-template.html +
+http://docs.pivotal.io/pivotalcf/customizing/cloudform-om-deploy.html +
+http://docs.pivotal.io/pivotalcf/customizing/cloudform-om-config.html +
+http://docs.pivotal.io/pivotalcf/customizing/cloudform-er-config.html
+
+
